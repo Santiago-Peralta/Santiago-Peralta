@@ -8,7 +8,6 @@
 </div>
 
 <!-- Contacto -->
-<details>
   <summary style="font-size: 1.2em; font-weight: bold; color: #0a192f; cursor: pointer;">Contacto</summary>
   <div align="center">
     <p>
@@ -20,7 +19,6 @@
       </a>
     </p>
   </div>
-</details>
 
 <!-- Stack tecnologico -->
 <details>
