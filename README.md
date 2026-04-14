@@ -29,47 +29,25 @@
 </details>
 
 <details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #3498db; cursor: pointer;">Tech Stack</summary>
+  <summary style="font-size: 1.2em; font-weight: bold; color: #3498db; cursor: pointer;">Stack</summary>
   <div align="center">
     <p>
-      <!-- Lenguajes -->
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="height: 30px; margin: 5px;">
-      
-
-      <!-- Frontend -->
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height: 30px; margin: 5px;">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="height: 30px; margin: 5px;">
-
-      <!-- Backend / Arquitectura -->
-      <img src="https://img.shields.io/badge/Microservices-ff69b4?style=for-the-badge" style="height: 30px; margin: 5px;">
-
-      <!-- Bases de datos -->
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 30px; margin: 5px;">
-
-       <!-- DevOps -->
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/Microservices-ff69b4?style=for-the-badge" style="height: 30px; margin: 5px;">
     </p>
 
     <p style="margin-top: 10px;">
       🚀 Always learning and adapting to new technologies
     </p>
-  </div>
-</details>
-
-
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">About Me</summary>
-  <div align="center">
-    <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #555;">
-      <li><strong>Languages:</strong> JavaScript, Java, Python</li>
-      <li><strong>Web Development:</strong> React, Node.js, Express</li>
-      <li><strong>DevOps & Cloud:</strong> Docker</li>
-    </ul>
   </div>
 </details>
