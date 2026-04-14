@@ -8,17 +8,20 @@
 </div>
 
 <!-- Contacto -->
-  <summary style="font-size: 1.2em; font-weight: bold; color: #0a192f; cursor: pointer;">Contacto</summary>
-  <div align="center">
-    <p>
-      <a href="https://www.linkedin.com/in/santiago-peralta-conci-650995331/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 30px; margin: 5px;">
-      </a>
-      <a href="mailto:peraltaconci@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white" style="height: 30px; margin: 5px;">
-      </a>
-    </p>
-  </div>
+<div align="center">
+
+<h3 style="color: #0a192f;">Contacto</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/santiago-peralta-conci/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:peraltaconci@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+</div>
 
 <!-- Stack tecnologico -->
 <details>
