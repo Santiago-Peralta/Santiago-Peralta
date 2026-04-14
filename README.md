@@ -10,22 +10,22 @@
 <!-- Contacto -->
 <div align="center">
 
-<h3 style="color: #0a192f;">Contacto</h3>
+<h3 style="color: #0a192f;">📬 Contacto</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/santiago-peralta-conci/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:peraltaconci@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/santiago-peralta-conci/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="mailto:peraltaconci@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 </div>
 
 <!-- Stack tecnologico -->
 <details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #1f3a5f; cursor: pointer;">Stack</summary>
+  <summary style="font-size: 1.2em; font-weight: bold; color: #1f3a5f; cursor: pointer;">⚙️ Stack</summary>
   <div align="center">
     <p><strong>Languages</strong></p>
     <p>
@@ -58,12 +58,13 @@
     <p style="margin-top: 10px;">
       🚀 Always learning and adapting to new technologies
     </p>
+
   </div>
 </details>
 
 <!-- Contribuciones -->
 <details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #0a192f; cursor: pointer;">Contributions</summary>
+  <summary style="font-size: 1.2em; font-weight: bold; color: #0a192f; cursor: pointer;">📊 Contributions</summary>
   <div align="center">
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Peralta&theme=tokyonight">
     <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santiago-Peralta&show_icons=true&theme=tokyonight">
