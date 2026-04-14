@@ -64,8 +64,7 @@
 <details>
   <summary style="font-size: 1.2em; font-weight: bold; color: #0a192f; cursor: pointer;">Contributions</summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Santiago-Peralta&show_icons=true&theme=tokyonight" style="margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Peralta&theme=tokyonight" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Peralta&layout=compact&theme=tokyonight" style="margin: 10px;">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Peralta&theme=tokyonight">
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santiago-Peralta&show_icons=true&theme=tokyonight">
   </div>
 </details>
