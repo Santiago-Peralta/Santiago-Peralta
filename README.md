@@ -12,14 +12,20 @@
 
 <h3 style="color: #0a192f;">📬 Contacto</h3>
 
-<p>
-<a href="https://www.linkedin.com/in/santiago-peralta-conci/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="mailto:peraltaconci@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/santiago-peralta-conci/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:peraltaconci@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
