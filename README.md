@@ -22,6 +22,7 @@
   </div>
 </details>
 
+<!-- Stack tecnologico -->
 <details>
   <summary style="font-size: 1.2em; font-weight: bold; color: #3498db; cursor: pointer;">Stack</summary>
   <div align="center">
@@ -56,5 +57,16 @@
     <p style="margin-top: 10px;">
       🚀 Always learning and adapting to new technologies
     </p>
+  </div>
+</details>
+
+<!-- Contribuciones -->
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; color: #2ecc71; cursor: pointer;">Contributions</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Santiago-Peralta&show_icons=true&theme=tokyonight" style="margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Peralta&theme=tokyonight" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Peralta&layout=compact&theme=tokyonight" style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Santiago-Peralta/Santiago-Peralta/output/snake.svg" style="margin-top: 10px;">
   </div>
 </details>
